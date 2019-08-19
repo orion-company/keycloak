@@ -1,0 +1,10 @@
+
+keycloak for Debian
+------------------
+
+A debian package for Keycloack OpenID Connect server. Uses a PostgreSQL DB.
+Created by Orion company in Israel for our internal needs, but may be
+useful for others.
+
+
+ -- Victor Porton <porton@narod.ru>  Mon, 19 Aug 2019 12:47:48 +0300

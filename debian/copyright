@@ -1,0 +1,13 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: keycloak
+Source: https://www.keycloak.org
+
+Files: *
+Copyright: 2019 Victor Porton <porton@narod.ru>
+           2019 Orion Company
+License: LGPL-2.1+
+
+Files: *
+Copyright: 2019 Victor Porton <porton@narod.ru>
+           2019 Orion Company
+License: Apache-2.0

@@ -54,6 +54,13 @@
             <artifactId>bcpkix-jdk15on</artifactId>
         </dependency>
         <dependency>
+            <groupId>javax.activation</groupId>
+            <artifactId>javax.activation</artifactId>
+            <version>1.2.0</version>
+            <scope>system</scope>
+            <systemPath>/usr/share/java/javax.activation.jar</systemPath>
+        </dependency>
+        <dependency>
             <groupId>org.jboss.logging</groupId>
             <artifactId>jboss-logging</artifactId>
             <scope>provided</scope>
